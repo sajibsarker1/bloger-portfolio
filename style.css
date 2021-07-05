@@ -1,0 +1,25 @@
+body{
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    font-size: 65px;
+   
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+.blue-color{
+    color: blue;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%
+}
+.half-width img{
+    width: 100%;
+}
