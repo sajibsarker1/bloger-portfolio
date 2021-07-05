@@ -1,5 +1,6 @@
 body{
     font-family: 'Dancing Script', cursive;
+   padding-left: 2%;
 }
 h1{
     font-size: 65px;
@@ -9,8 +10,10 @@ h2{
     font-size: 40px;
 }
 p{
-    font-size: 25px;
+    font-size: 20px;
+    color: darkblue;
 }
+
 .blue-color{
     color: blue;
 }
@@ -21,5 +24,14 @@ section{
     width: 50%
 }
 .half-width img{
-    width: 100%;
+    width: 100%
+}
+.link-button{
+    text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
